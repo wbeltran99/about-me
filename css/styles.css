@@ -197,6 +197,7 @@ header{
 .texto-about-me{
     width: 65%;
     float: left;
+    font-family: sans-serif;
 }
 
 .img-about-me{
