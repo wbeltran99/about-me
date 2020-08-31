@@ -142,12 +142,12 @@ header{
     text-decoration-line: blue;
 }
 
-.tarjetas{
+.container-tarjetas{
     margin-top: 20px;
 }
 
 .tarjeta{
-    width: 370px;
+    width: 30%;
     float: left;
     font-family: sans-serif;
     text-align: center;
@@ -184,16 +184,6 @@ header{
     margin: 30px 0px;
 }
 
-.about-me{
-    width: 100%;
-    height: 300px;
-}
-
-.wrap-2{
-    width: 900px;
-    margin: 0px auto;
-}
-
 .texto-about-me{
     width: 65%;
     float: left;
@@ -212,14 +202,14 @@ header{
 
 .texto-about-me p{
     font-family: sans-serif;
-
 }
 
 .img-about-me .profile{
-    width: 90%;
-    height: 90%;
-    margin: 30px;
-    border-radius: 40px;
+    width: 60%;
+    height: 60%;
+    border-radius: 30px;
+    display: block;
+    margin: 10px auto;
 }
 
 
@@ -231,7 +221,7 @@ header{
     margin: 30px 0px;
 }
 
-.wp-contacto{
+.container-contacto{
     height: 200px;
 }
 

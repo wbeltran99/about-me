@@ -1,0 +1,43 @@
+@media (max-width:1250px){
+    .wrap{
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .img-about-me .profile{
+        margin: 20px auto;
+    }
+}
+
+@media (max-width:999px){
+    .tarjeta{
+        width:29%;
+    }
+
+    .img-about-me .profile{
+        margin: 30px auto;
+    }
+
+    .container-contacto{
+        height: 150px;
+    }
+}
+
+@media (max-width:800px){
+
+    #menu ul li a, #logo a{
+        font-size: 23px;
+    }
+
+    .texto-about-me h5{
+        font-size: 25px;
+    }
+
+    .texto-about-me p{
+        font-size: 15px;
+    }
+
+    .img-about-me .profile{
+        margin: 70px auto;
+    }
+}
